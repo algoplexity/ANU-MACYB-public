@@ -85,4 +85,32 @@ If intelligence is observer-grounded and structural, then measurement should foc
 
 This supports the CIO direction: estimating collective intelligence as a measurable property of a group.
 
-## Relation to the
+## Relation to the seed corpus
+The seed corpus supports this theory in three ways:
+
+1. **Autonomy emerges with minimal scaffolding**  
+   Multi-agent systems can self-organize when given a mission and a protocol.
+
+2. **Self-improvement can be recursive**  
+   Systems can improve not just task performance, but also the mechanisms by which they improve.
+
+3. **Intelligence is plural and relational**  
+   Advanced intelligence is better modeled as a society of interacting processes than as a monolithic mind.
+
+Together, these findings support the claim that collective intelligence is a structured, observer-grounded phenomenon rather than a purely internal property of an isolated agent.
+
+## Open questions
+- What is the smallest measurable boundary of a collective?
+- Which protocol features most strongly predict emergent autonomy?
+- How should observer choice affect the definition of intelligence?
+- Can role emergence be predicted from interaction structure alone?
+- What are the minimal invariants of collective intelligence across domains?
+
+## Links
+- [Seed Corpus: Multi-Agent Systems Stack](./seed-corpus-multi-agent-systems.md)
+- [Multi-Agent Systems](./multi-agent-systems.md)
+- [Paper B — Computation](./paper-b-computation.md)
+- [Paper C — Measurement](./paper-c-measurement.md)
+
+## Status
+Draft theory note. Update as empirical findings and formalism mature.
