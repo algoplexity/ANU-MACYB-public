@@ -3,26 +3,43 @@ layout: default
 title: Home
 ---
 
-# Master of Applied Cybernetics — Public Artefacts
+# Algoplexity — Public Research Repository
 
-Welcome. This site publishes a curated, sanitised subset of coursework and
-project work completed as part of the
-**Master of Applied Cybernetics (MACYB)** at the Australian National University.
+Welcome. This site is the public home of **Algoplexity**, an evolving research
+programme focused on rigorous, computable approaches to intelligence,
+coordination, structure, and change in complex systems.
 
-## What you will find here
+The programme spans theory, computation, and instrumentation — with particular
+emphasis on algorithmic cognitive science, cybernetics, collective intelligence,
+and mesoscopic measurement.
 
-- Sanitised code samples and technical write-ups
-- Project overviews and architecture notes
-- Blog posts reflecting on themes and learnings (no assessment content)
+## Collective Intelligence Observatory (CIO)
+
+The **Collective Intelligence Observatory** is the flagship instrument concept
+within Algoplexity. Its goal is to make collective intelligence measurable as a
+real, observable quantity — by capturing the structure of interaction and the
+dynamics that produce it.
+
+> Collective intelligence can be approached as a physically measurable property
+> of a group: one part structural, one part dynamical. CIO proposes estimating
+> this in real time using interaction graphs and motion fields.
+
+[Read the CIO overview →](pages/cio)
 
 ## Navigation
 
-- [Projects](../projects/) — per-course project artefacts
+- [CIO Overview](pages/cio) — the Collective Intelligence Observatory concept and core ideas
 - [Blog](blog/) — periodic posts on topics explored during the programme
-- [About](pages/about.md) — scope, privacy, and what is intentionally excluded
+- [About](pages/about) — scope, privacy, and what is intentionally excluded
 
-## What is not here
+## Source and transparency
 
-Detailed assessment artefacts, submissions, raw reflections, sensitive data, and
-large datasets are **not** published here. See the
-[About](pages/about.md) page for the full scope statement.
+This repository hosts curated, sanitised public artefacts from the research
+programme. It is also the public artefact layer for the
+**Master of Applied Cybernetics (MACYB)** at the Australian National University.
+
+Detailed assessment artefacts, raw data, and private working material are
+**not** published here. See the [About](pages/about) page for the full scope
+statement.
+
+Public repo: [github.com/algoplexity/ANU-MACYB-public](https://github.com/algoplexity/ANU-MACYB-public)

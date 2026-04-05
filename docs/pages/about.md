@@ -5,11 +5,29 @@ title: About
 
 # About this site
 
-This site publishes a curated, sanitised subset of work completed during the
-**Master of Applied Cybernetics (MACYB)** at the Australian National University.
+This site is the public home of **Algoplexity**, an evolving research programme
+focused on rigorous, computable approaches to intelligence, coordination,
+structure, and change in complex systems.
+
+It also serves as the public artefact layer for the
+**Master of Applied Cybernetics (MACYB)** at the Australian National University,
+which provides the research context for the programme.
+
+## About Algoplexity
+
+Algoplexity spans theory, computation, and instrumentation — with particular
+emphasis on algorithmic cognitive science, cybernetics, collective intelligence,
+and mesoscopic measurement.
+
+The **Cybernetic Intelligence (CI)** synthesis is the theoretical anchor of the
+programme. The **Collective Intelligence Observatory (CIO)** is the first major
+instrument concept brought into public view.
+
+[Read the CIO overview →](cio)
 
 ## Scope — what will be published
 
+- CIO concept notes, overviews, and architecture documentation
 - Sanitised source code and technical documentation
 - Project overviews, architecture diagrams, and methodology notes
 - Small illustrative data samples (synthetic or de-identified)
