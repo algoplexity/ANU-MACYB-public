@@ -8,9 +8,15 @@ This repository follows the shared operating protocol in `master-rdmp.md`.
 - `ANU-MACYB-private`: private working knowledge engine and implementation layer
 - `ANU-MACYB-public`: curated public mirror and communication layer
 
-## CIO / CI alignment
+## CIO / MACYB governance and source alignment
 
-The broader Cybernetic Intelligence programme is anchored by the canonical synthesis in [`docs/CI-unified.md`](https://github.com/algoplexity/cybernetic-intelligence/blob/main/docs/CI-unified.md). This public repository should remain a sanitized, public-safe subset of the upstream theory and private working material.
+This repository is the curated public mirror and communication layer for the CIO/MACYB ecosystem.
+
+The system-wide operating protocol is [`master-rdmp.md`](../master-rdmp.md). It defines the shared operating model, provenance rules, and folder grammar across theory, private implementation, and public publication.
+
+The broader Cybernetic Intelligence programme is anchored by the canonical synthesis in [`docs/CI-unified.md`](https://github.com/algoplexity/cybernetic-intelligence/blob/main/docs/CI-unified.md).
+
+This repository should remain a sanitized, public-safe subset of the upstream theory and private working material.
 
 ## What lives where
 
