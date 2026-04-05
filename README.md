@@ -3,6 +3,11 @@
 Curated, sanitised public subset of coursework and project artefacts for the
 **Master of Applied Cybernetics (MACYB)** at the Australian National University.
 
+This repository is part of the CIO programme and follows the shared operating protocol defined in `master-rdmp.md`.
+
+- `ANU-MACYB-private`: private working knowledge engine and implementation layer
+- `ANU-MACYB-public`: curated public mirror and communication layer
+
 ## What lives where
 
 | Location | Contents |
