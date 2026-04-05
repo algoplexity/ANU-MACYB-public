@@ -32,6 +32,17 @@ dynamics that produce it.
 - [Blog](blog/) — periodic posts on topics explored during the programme
 - [About](pages/about) — scope, privacy, and what is intentionally excluded
 
+## Research Streams
+
+### Multi-Agent Systems
+This section contains the evolving knowledge base for the multi-agent systems research stream, including the seed corpus and the theory → computation → measurement stack.
+
+- [Multi-Agent Systems](pages/multi-agent-systems)
+- [Seed Corpus: Multi-Agent Systems Stack](pages/seed-corpus-multi-agent-systems)
+- [Paper A — Minimal Unified Theory of Observer-Grounded Collective Intelligence](pages/paper-a-theory)
+- [Paper B — Computation](pages/paper-b-computation)
+- [Paper C — Measurement](pages/paper-c-measurement)
+
 ## Source and transparency
 
 This repository hosts curated, sanitised public artefacts from the research
