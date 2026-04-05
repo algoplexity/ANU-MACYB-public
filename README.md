@@ -3,20 +3,14 @@
 Curated, sanitised public subset of coursework and project artefacts for the
 **Master of Applied Cybernetics (MACYB)** at the Australian National University.
 
-This repository is part of the CIO programme and follows the shared operating protocol defined in `master-rdmp.md`.
+This repository follows the shared operating protocol in `master-rdmp.md`.
 
 - `ANU-MACYB-private`: private working knowledge engine and implementation layer
 - `ANU-MACYB-public`: curated public mirror and communication layer
 
-## CIO/MACYB governance and source alignment
+## CIO / CI alignment
 
-This repository is the curated public mirror for the CIO/MACYB ecosystem.
-
-The governing protocol for the three-repository system is [`master-rdmp.md`](master-rdmp.md), which defines the shared operating model, provenance rules, and folder grammar across theory, private implementation, and public publication.
-
-The theory source for the broader Cybernetic Intelligence programme is the Algoplexity repository, whose canonical synthesis is [`docs/CI-unified.md`](https://github.com/algoplexity/cybernetic-intelligence/blob/main/docs/CI-unified.md).
-
-This repository should remain a sanitized, public-safe subset of the upstream theory and private working material.
+The broader Cybernetic Intelligence programme is anchored by the canonical synthesis in [`docs/CI-unified.md`](https://github.com/algoplexity/cybernetic-intelligence/blob/main/docs/CI-unified.md). This public repository should remain a sanitized, public-safe subset of the upstream theory and private working material.
 
 ## What lives where
 
