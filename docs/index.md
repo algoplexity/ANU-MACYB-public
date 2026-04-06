@@ -37,11 +37,12 @@ dynamics that produce it.
 ### Multi-Agent Systems
 This section contains the evolving knowledge base for the multi-agent systems research stream, including the seed corpus and the theory → computation → measurement stack.
 
-- [Multi-Agent Systems](pages/multi-agent-systems)
-- [Seed Corpus: Multi-Agent Systems Stack](pages/seed-corpus-multi-agent-systems)
-- [Paper A — Minimal Unified Theory of Observer-Grounded Collective Intelligence](pages/paper-a-theory)
-- [Paper B — Computation](pages/paper-b-computation)
-- [Paper C — Measurement](pages/paper-c-measurement)
+#### Reading order
+1. [Multi-Agent Systems](pages/multi-agent-systems)
+2. [Seed Corpus: Multi-Agent Systems Stack](pages/seed-corpus-multi-agent-systems)
+3. [Paper A — Minimal Unified Theory of Observer-Grounded Collective Intelligence](pages/paper-a-theory)
+4. [Paper B — Computation](pages/paper-b-computation)
+5. [Paper C — Measurement](pages/paper-c-measurement)
 
 ## Source and transparency
 
