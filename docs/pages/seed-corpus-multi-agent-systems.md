@@ -12,6 +12,13 @@
 - Last reviewed: 2026-04-05
 - Notes: Shared seed corpus for the theory–computation–measurement stack. Not mapped one-to-one to layers; each source contributes across all layers.
 
+## Raw source records
+The raw ingest layer for this corpus lives in `raw/`:
+
+- [arXiv:2603.28990](../../raw/arxiv-2603.28990.md)
+- [arXiv:2603.19461](../../raw/arxiv-2603.19461.md)
+- [arXiv:2603.20639](../../raw/arxiv-2603.20639.md)
+
 ## Purpose
 This page captures three arXiv sources as a shared seed corpus for the evolving knowledge base. They jointly inform the project’s theory, computation, and measurement layers and should be revisited as the understanding of the stack matures.
 
